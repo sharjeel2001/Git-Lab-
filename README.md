@@ -2,6 +2,8 @@
 ## Registration # 4345/FBAS/BSSE/F21
 ### Section B
 
+![Screenshot (12)](https://github.com/sharjeel2001/Git-Lab-/assets/115001622/fce039c4-9017-4661-a15a-f7fd62f666eb)
+
 ![git init](https://github.com/sharjeel2001/Git-Lab-/assets/115001622/f9f9480a-1a3e-4eaf-a498-bddd275f825b)
 
 ![git status](https://github.com/sharjeel2001/Git-Lab-/assets/115001622/24860ae2-6023-4902-b782-3e3dc45d2dfa)
